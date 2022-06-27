@@ -1,6 +1,6 @@
 name: TierMobs
 version: '${project.version}'
-main: com.tomasgng.tiermobs.TierMobs
+main: com.tomasgng.TierMobs
 api-version: 1.19
 authors: [ TomasGnG ]
 description: Create and spawn custom tier mobs
